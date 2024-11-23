@@ -2,6 +2,6 @@ flask
 flask_socketio
 pandas
 requests
-dotenv
+python-dotenv
 gunicorn
 eventlet
