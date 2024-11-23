@@ -62,7 +62,7 @@ body
 #guess
 {
     width: 10%;
-    font-size: larger;
+    font-size: 140%;
     margin-left: 45%;
 }
 #guess:hover {cursor: pointer;}
@@ -71,18 +71,32 @@ ol
 {
     display: flex;
     list-style: none;
-    padding: 0%;
-    margin-left: 30%;
+    width: 64%;
+    margin-top: 4%;
+    margin-left: 17%;
+    justify-content: center;
+}
+
+li
+{
+    margin-left: 3%
 }
 
 h1
 {
     text-align: center;
+    font-size: 230%;
 }
 
 h2
 {
     text-align: center;
+    font-size: 200%;
+}
+
+h4
+{
+    font-size: 140%;
 }
 
 ul
