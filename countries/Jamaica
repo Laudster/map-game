@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "J",
+        "UN membership date": 1962,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "8.0%",
+        "Region": "Caribbean",
+        "Surface area": "10990.0 square miles",
+        "Currency": "JMD",
+        "Gdp per capita": "5354$",
+        "Life expectancy": "72.8 years",
+        "Capital city population": "580000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Kingston",
+        "Population": "2961000",
+        "Gdp": "15714000000$"
+    },
+    "answer": "Jamaica"
+}

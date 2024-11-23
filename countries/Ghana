@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1957,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.5%",
+        "Region": "Western Africa",
+        "Surface area": "238537.0 square miles",
+        "Currency": "GHS",
+        "Gdp per capita": "2201$",
+        "Life expectancy": "62.6 years",
+        "Capital city population": "3490030"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Accra",
+        "Population": "31073000",
+        "Gdp": "65535000000$"
+    },
+    "answer": "Ghana"
+}

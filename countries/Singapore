@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1965,
+        "Number of official languages": "4",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "4.4%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "719.0 square miles",
+        "Currency": "SGD",
+        "Gdp per capita": "62720$",
+        "Life expectancy": "81.2 years",
+        "Capital city population": "5983000"
+    },
+    "end": {
+        "Official language": "English, Malay, Mandarin, Tamil",
+        "Capital": "Singapore",
+        "Population": "5850000",
+        "Gdp": "361115000000$"
+    },
+    "answer": "Singapore"
+}

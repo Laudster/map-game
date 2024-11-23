@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "8.8%",
+        "Region": "South America",
+        "Surface area": "173626.0 square miles",
+        "Currency": "UYU",
+        "Gdp per capita": "17278$",
+        "Life expectancy": "73.9 years",
+        "Capital city population": "1719453"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Montevideo",
+        "Population": "3474000",
+        "Gdp": "59597000000$"
+    },
+    "answer": "Uruguay"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1991,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.5%",
+        "Region": "Northern Europe",
+        "Surface area": "64573.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "17851$",
+        "Life expectancy": "69.9 years",
+        "Capital city population": "920643"
+    },
+    "end": {
+        "Official language": "Latvian",
+        "Capital": "Riga",
+        "Population": "1886000",
+        "Gdp": "34426000000$"
+    },
+    "answer": "Latvia"
+}

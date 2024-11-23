@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1946,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "0.8%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "513120.0 square miles",
+        "Currency": "THB",
+        "Gdp per capita": "7273$",
+        "Life expectancy": "73.1 years",
+        "Capital city population": "18007000"
+    },
+    "end": {
+        "Official language": "Thai",
+        "Capital": "Bangkok",
+        "Population": "69800000",
+        "Gdp": "504992000000$"
+    },
+    "answer": "Thailand"
+}

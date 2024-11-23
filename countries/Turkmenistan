@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.1%",
+        "Region": "Central Asia",
+        "Surface area": "488100.0 square miles",
+        "Currency": "TMT",
+        "Gdp per capita": "6964$",
+        "Life expectancy": "64.5 years",
+        "Capital city population": "1030063"
+    },
+    "end": {
+        "Official language": "Turkmen",
+        "Capital": "Ashgabat",
+        "Population": "6031000",
+        "Gdp": "40749000000$"
+    },
+    "answer": "Turkmenistan"
+}

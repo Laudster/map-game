@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "F",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "8.3%",
+        "Region": "Western Europe",
+        "Surface area": "551500.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "41358$",
+        "Life expectancy": "79.4 years",
+        "Capital city population": "11060000"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Paris",
+        "Population": "65274000",
+        "Gdp": "2778892000000$"
+    },
+    "answer": "France"
+}

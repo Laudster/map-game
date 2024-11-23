@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "13.0%",
+        "Region": "Southern Europe",
+        "Surface area": "505944.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "30405$",
+        "Life expectancy": "80.6 years",
+        "Capital city population": "6211000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Madrid",
+        "Population": "46755000",
+        "Gdp": "1419735000000$"
+    },
+    "answer": "Spain"
+}

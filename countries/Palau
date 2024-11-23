@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1994,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.2%",
+        "Region": "Micronesia",
+        "Surface area": "459.0 square miles",
+        "Currency": "USD",
+        "Gdp per capita": "15859$",
+        "Life expectancy": "68.1 years",
+        "Capital city population": "8744"
+    },
+    "end": {
+        "Official language": "Palauan, English",
+        "Capital": "Melekeok",
+        "Population": "22000",
+        "Gdp": "284000000$"
+    },
+    "answer": "Palau"
+}

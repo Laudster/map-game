@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1993,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "None%",
+        "Region": "Western Europe",
+        "Surface area": "2.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "185835$",
+        "Life expectancy": "None years",
+        "Capital city population": "36371"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Monaco",
+        "Population": "39000",
+        "Gdp": "7188000000$"
+    },
+    "answer": "Monaco"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1993,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.1%",
+        "Region": "Eastern Europe",
+        "Surface area": "49035.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "19430$",
+        "Life expectancy": "73.7 years",
+        "Capital city population": "475503"
+    },
+    "end": {
+        "Official language": "Slovak",
+        "Capital": "Bratislava",
+        "Population": "5460000",
+        "Gdp": "105956000000$"
+    },
+    "answer": "Slovakia"
+}

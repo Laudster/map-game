@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "3.7%",
+        "Region": "Middle Africa",
+        "Surface area": "622984.0 square miles",
+        "Currency": "XAF",
+        "Gdp per capita": "480$",
+        "Life expectancy": "50.5 years",
+        "Capital city population": "889231"
+    },
+    "end": {
+        "Official language": "French, Sango",
+        "Capital": "Bangui",
+        "Population": "4830000",
+        "Gdp": "2243000000$"
+    },
+    "answer": "Central African Republic"
+}

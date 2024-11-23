@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.8%",
+        "Region": "Eastern Europe",
+        "Surface area": "111002.0 square miles",
+        "Currency": "BGN",
+        "Gdp per capita": "9387$",
+        "Life expectancy": "71.3 years",
+        "Capital city population": "1547779"
+    },
+    "end": {
+        "Official language": "Bulgarian",
+        "Capital": "Sofia",
+        "Population": "6948000",
+        "Gdp": "66199000000$"
+    },
+    "answer": "Bulgaria"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1945,
+        "Number of official languages": "3",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.7%",
+        "Region": "Western Europe",
+        "Surface area": "30528.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "47293$",
+        "Life expectancy": "79.0 years",
+        "Capital city population": "1235192"
+    },
+    "end": {
+        "Official language": "Dutch, French, German",
+        "Capital": "Brussels",
+        "Population": "11590000",
+        "Gdp": "543026000000$"
+    },
+    "answer": "Belgium"
+}

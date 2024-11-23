@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "R",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.9%",
+        "Region": "Eastern Europe",
+        "Surface area": "238391.0 square miles",
+        "Currency": "RON",
+        "Gdp per capita": "12280$",
+        "Life expectancy": "72.4 years",
+        "Capital city population": "2412530"
+    },
+    "end": {
+        "Official language": "Romanian",
+        "Capital": "Bucharest",
+        "Population": "19238000",
+        "Gdp": "239552000000$"
+    },
+    "answer": "Romania"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.0%",
+        "Region": "Western Europe",
+        "Surface area": "41542.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "53583$",
+        "Life expectancy": "80.3 years",
+        "Capital city population": "1944588"
+    },
+    "end": {
+        "Official language": "Dutch",
+        "Capital": "Amsterdam",
+        "Population": "17135000",
+        "Gdp": "914105000000$"
+    },
+    "answer": "Netherlands"
+}

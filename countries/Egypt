@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "10.1%",
+        "Region": "Northern Africa",
+        "Surface area": "1002000.0 square miles",
+        "Currency": "EGP",
+        "Gdp per capita": "2537$",
+        "Life expectancy": "69.5 years",
+        "Capital city population": "20296000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Cairo",
+        "Population": "102334000",
+        "Gdp": "249751000000$"
+    },
+    "answer": "Egypt"
+}

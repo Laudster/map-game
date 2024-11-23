@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "5.9%",
+        "Region": "Western Asia",
+        "Surface area": "2206714.0 square miles",
+        "Currency": "SAR",
+        "Gdp per capita": "23217$",
+        "Life expectancy": "73.7 years",
+        "Capital city population": "7237000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Riyadh",
+        "Population": "34814000",
+        "Gdp": "782483000000$"
+    },
+    "answer": "Saudi Arabia"
+}

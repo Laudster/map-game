@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "V",
+        "UN membership date": "Never",
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "2.0%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "330967.0 square miles",
+        "Currency": "VND",
+        "Gdp per capita": "2563$",
+        "Life expectancy": "71.2 years",
+        "Capital city population": "15136000"
+    },
+    "end": {
+        "Official language": "Vietnamese",
+        "Capital": "Hanoi",
+        "Population": "97339000",
+        "Gdp": "244901000000$"
+    },
+    "answer": "Vietnam"
+}

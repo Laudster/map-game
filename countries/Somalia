@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "11.4%",
+        "Region": "Eastern Africa",
+        "Surface area": "637657.0 square miles",
+        "Currency": "SOS",
+        "Gdp per capita": "99$",
+        "Life expectancy": "55.3 years",
+        "Capital city population": "2610483"
+    },
+    "end": {
+        "Official language": "Somali, Arabic",
+        "Capital": "Mogadishu",
+        "Population": "15893000",
+        "Gdp": "1494000000$"
+    },
+    "answer": "Somalia"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1993,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "1.9%",
+        "Region": "Eastern Europe",
+        "Surface area": "78868.0 square miles",
+        "Currency": "CZK",
+        "Gdp per capita": "22992$",
+        "Life expectancy": "76.5 years",
+        "Capital city population": "1357326"
+    },
+    "end": {
+        "Official language": "Czech",
+        "Capital": "Prague",
+        "Population": "10709000",
+        "Gdp": "245226000000$"
+    },
+    "answer": "Czechia"
+}

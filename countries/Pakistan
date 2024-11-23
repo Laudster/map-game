@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1947,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "4.4%",
+        "Region": "Southern Asia",
+        "Surface area": "796095.0 square miles",
+        "Currency": "PKR",
+        "Gdp per capita": "1330$",
+        "Life expectancy": "66.1 years",
+        "Capital city population": "15738000"
+    },
+    "end": {
+        "Official language": "Urdu, English",
+        "Capital": "Islamabad",
+        "Population": "220892000",
+        "Gdp": "282346000000$"
+    },
+    "answer": "Pakistan"
+}

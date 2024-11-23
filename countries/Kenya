@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "K",
+        "UN membership date": 1963,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "2.6%",
+        "Region": "Eastern Africa",
+        "Surface area": "591958.0 square miles",
+        "Currency": "KES",
+        "Gdp per capita": "1710$",
+        "Life expectancy": "63.8 years",
+        "Capital city population": "5545000"
+    },
+    "end": {
+        "Official language": "English, Swahili",
+        "Capital": "Nairobi",
+        "Population": "53771000",
+        "Gdp": "87906000000$"
+    },
+    "answer": "Kenya"
+}

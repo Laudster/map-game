@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "2.2%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "300000.0 square miles",
+        "Currency": "PHP",
+        "Gdp per capita": "3102$",
+        "Life expectancy": "67.1 years",
+        "Capital city population": "24922000"
+    },
+    "end": {
+        "Official language": "Filipino, English",
+        "Capital": "Manila",
+        "Population": "109581000",
+        "Gdp": "330910000000$"
+    },
+    "answer": "Philippines"
+}

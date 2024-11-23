@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1962,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "2.8%",
+        "Region": "Caribbean",
+        "Surface area": "5127.0 square miles",
+        "Currency": "TTD",
+        "Gdp per capita": "17130$",
+        "Life expectancy": "70.7 years",
+        "Capital city population": "101297"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Port Of Spain",
+        "Population": "1400000",
+        "Gdp": "23808000000$"
+    },
+    "answer": "Trinidad and Tobago"
+}

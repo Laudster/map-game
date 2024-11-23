@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.1%",
+        "Region": "Northern Europe",
+        "Surface area": "242495.0 square miles",
+        "Currency": "GBP",
+        "Gdp per capita": "42526$",
+        "Life expectancy": "79.4 years",
+        "Capital city population": "11262000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "London",
+        "Population": "67886000",
+        "Gdp": "2855297000000$"
+    },
+    "answer": "United Kingdom"
+}

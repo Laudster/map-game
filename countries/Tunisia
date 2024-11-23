@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1956,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "16.2%",
+        "Region": "Northern Africa",
+        "Surface area": "163610.0 square miles",
+        "Currency": "TND",
+        "Gdp per capita": "3449$",
+        "Life expectancy": "74.4 years",
+        "Capital city population": "602560"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Tunis",
+        "Population": "11819000",
+        "Gdp": "39895000000$"
+    },
+    "answer": "Tunisia"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.8%",
+        "Region": "Western Europe",
+        "Surface area": "83871.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "51230$",
+        "Life expectancy": "78.9 years",
+        "Capital city population": "2223236"
+    },
+    "end": {
+        "Official language": "German",
+        "Capital": "Vienna",
+        "Population": "9006000",
+        "Gdp": "455508000000$"
+    },
+    "answer": "Austria"
+}

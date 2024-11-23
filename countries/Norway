@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.3%",
+        "Region": "Northern Europe",
+        "Surface area": "386194.0 square miles",
+        "Currency": "NOK",
+        "Gdp per capita": "81335$",
+        "Life expectancy": "80.2 years",
+        "Capital city population": "1064235"
+    },
+    "end": {
+        "Official language": "Norwegian",
+        "Capital": "Oslo",
+        "Population": "5421000",
+        "Gdp": "434167000000$"
+    },
+    "answer": "Norway"
+}

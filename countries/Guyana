@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1966,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "11.8%",
+        "Region": "South America",
+        "Surface area": "214969.0 square miles",
+        "Currency": "GYD",
+        "Gdp per capita": "4900$",
+        "Life expectancy": "66.7 years",
+        "Capital city population": "200500"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Georgetown",
+        "Population": "787000",
+        "Gdp": "3818000000$"
+    },
+    "answer": "Guyana"
+}

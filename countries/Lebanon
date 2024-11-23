@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "6.3%",
+        "Region": "Western Asia",
+        "Surface area": "10452.0 square miles",
+        "Currency": "LBP",
+        "Gdp per capita": "8223$",
+        "Life expectancy": "77.0 years",
+        "Capital city population": "2421354"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Beirut",
+        "Population": "6825000",
+        "Gdp": "56409000000$"
+    },
+    "answer": "Lebanon"
+}

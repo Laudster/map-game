@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "K",
+        "UN membership date": 1992,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "6.6%",
+        "Region": "Central Asia",
+        "Surface area": "199949.0 square miles",
+        "Currency": "KGS",
+        "Gdp per capita": "1283$",
+        "Life expectancy": "67.2 years",
+        "Capital city population": "1120827"
+    },
+    "end": {
+        "Official language": "Kyrgyz, Russian",
+        "Capital": "Bishkek",
+        "Population": "6524000",
+        "Gdp": "8093000000$"
+    },
+    "answer": "Kyrgyzstan"
+}

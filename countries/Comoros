@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1975,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "4.4%",
+        "Region": "Eastern Africa",
+        "Surface area": "2235.0 square miles",
+        "Currency": "KMF",
+        "Gdp per capita": "1400$",
+        "Life expectancy": "62.3 years",
+        "Capital city population": "30000"
+    },
+    "end": {
+        "Official language": "Comorian, Arabic, French",
+        "Capital": "Moroni",
+        "Population": "870000",
+        "Gdp": "1166000000$"
+    },
+    "answer": "Comoros"
+}

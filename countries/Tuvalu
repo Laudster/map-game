@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 2000,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.5%",
+        "Region": "Polynesia",
+        "Surface area": "26.0 square miles",
+        "Currency": "AUD",
+        "Gdp per capita": "4000$",
+        "Life expectancy": "67.4 years",
+        "Capital city population": "6025"
+    },
+    "end": {
+        "Official language": "English, Tuvaluan",
+        "Capital": "Funafuti",
+        "Population": "12000",
+        "Gdp": "46000000$"
+    },
+    "answer": "Tuvalu"
+}

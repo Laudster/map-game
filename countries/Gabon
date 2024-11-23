@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "20.2%",
+        "Region": "Middle Africa",
+        "Surface area": "267668.0 square miles",
+        "Currency": "XAF",
+        "Gdp per capita": "8018$",
+        "Life expectancy": "64.0 years",
+        "Capital city population": "797003"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Libreville",
+        "Population": "2226000",
+        "Gdp": "16994000000$"
+    },
+    "answer": "Gabon"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1975,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "7.5%",
+        "Region": "South America",
+        "Surface area": "163820.0 square miles",
+        "Currency": "SRD",
+        "Gdp per capita": "6003$",
+        "Life expectancy": "68.3 years",
+        "Capital city population": "223757"
+    },
+    "end": {
+        "Official language": "Dutch",
+        "Capital": "Paramaribo",
+        "Population": "587000",
+        "Gdp": "3458000000$"
+    },
+    "answer": "Suriname"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "J",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "14.6%",
+        "Region": "Western Asia",
+        "Surface area": "89318.0 square miles",
+        "Currency": "JOD",
+        "Gdp per capita": "4237$",
+        "Life expectancy": "72.7 years",
+        "Capital city population": "4007526"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Amman",
+        "Population": "10203000",
+        "Gdp": "42231000000$"
+    },
+    "answer": "Jordan"
+}

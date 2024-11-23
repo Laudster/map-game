@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1992,
+        "Number of official languages": "3",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "18.4%",
+        "Region": "Southern Europe",
+        "Surface area": "51209.0 square miles",
+        "Currency": "BAM",
+        "Gdp per capita": "5951$",
+        "Life expectancy": "74.6 years",
+        "Capital city population": "419957"
+    },
+    "end": {
+        "Official language": "Bosnian, Croatian, Serbian",
+        "Capital": "Sarajevo",
+        "Population": "3281000",
+        "Gdp": "19782000000$"
+    },
+    "answer": "Bosnia and Herzegovina"
+}

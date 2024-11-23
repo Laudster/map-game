@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 2002,
+        "Number of official languages": "4",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.8%",
+        "Region": "Western Europe",
+        "Surface area": "41291.0 square miles",
+        "Currency": "CHF",
+        "Gdp per capita": "82708$",
+        "Life expectancy": "81.6 years",
+        "Capital city population": "447082"
+    },
+    "end": {
+        "Official language": "German, French, Italian, Romansh",
+        "Capital": "Bern",
+        "Population": "8655000",
+        "Gdp": "705141000000$"
+    },
+    "answer": "Switzerland"
+}

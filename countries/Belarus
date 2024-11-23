@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.6%",
+        "Region": "Eastern Europe",
+        "Surface area": "207600.0 square miles",
+        "Currency": "BYN",
+        "Gdp per capita": "6311$",
+        "Life expectancy": "69.3 years",
+        "Capital city population": "1995471"
+    },
+    "end": {
+        "Official language": "Belarusian, Russian",
+        "Capital": "Minsk",
+        "Population": "9449000",
+        "Gdp": "59662000000$"
+    },
+    "answer": "Belarus"
+}

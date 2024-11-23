@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "D",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.9%",
+        "Region": "Caribbean",
+        "Surface area": "48671.0 square miles",
+        "Currency": "DOP",
+        "Gdp per capita": "7650$",
+        "Life expectancy": "70.7 years",
+        "Capital city population": "1343423"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Santo Domingo",
+        "Population": "10848000",
+        "Gdp": "81299000000$"
+    },
+    "answer": "Dominican Republic"
+}

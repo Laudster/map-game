@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.4%",
+        "Region": "Eastern Asia",
+        "Surface area": "9600000.0 square miles",
+        "Currency": "CNY",
+        "Gdp per capita": "9531$",
+        "Life expectancy": "74.5 years",
+        "Capital city population": "26940000"
+    },
+    "end": {
+        "Official language": "Mandarin",
+        "Capital": "Beijing",
+        "Population": "1439324000",
+        "Gdp": "13608152000000$"
+    },
+    "answer": "China"
+}

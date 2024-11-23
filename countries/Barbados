@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1966,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "10.9%",
+        "Region": "Caribbean",
+        "Surface area": "431.0 square miles",
+        "Currency": "BBD",
+        "Gdp per capita": "17745$",
+        "Life expectancy": "77.6 years",
+        "Capital city population": "110000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Bridgetown",
+        "Population": "287000",
+        "Gdp": "5087000000$"
+    },
+    "answer": "Barbados"
+}

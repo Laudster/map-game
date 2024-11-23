@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "0.7%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "181035.0 square miles",
+        "Currency": "KHR",
+        "Gdp per capita": "1512$",
+        "Life expectancy": "67.2 years",
+        "Capital city population": "2129371"
+    },
+    "end": {
+        "Official language": "Khmer",
+        "Capital": "Phnom Penh",
+        "Population": "16719000",
+        "Gdp": "24572000000$"
+    },
+    "answer": "Cambodia"
+}

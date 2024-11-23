@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.8%",
+        "Region": "Southern Europe",
+        "Surface area": "20273.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "26005$",
+        "Life expectancy": "78.2 years",
+        "Capital city population": "284293"
+    },
+    "end": {
+        "Official language": "Slovene",
+        "Capital": "Ljubljana",
+        "Population": "2079000",
+        "Gdp": "54034000000$"
+    },
+    "answer": "Slovenia"
+}

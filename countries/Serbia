@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 2000,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "12.7%",
+        "Region": "Southern Europe",
+        "Surface area": "88499.0 square miles",
+        "Currency": "RSD",
+        "Gdp per capita": "7208$",
+        "Life expectancy": "73.2 years",
+        "Capital city population": "1197714"
+    },
+    "end": {
+        "Official language": "Serbian",
+        "Capital": "Belgrade",
+        "Population": "8737000",
+        "Gdp": "50597000000$"
+    },
+    "answer": "Serbia"
+}

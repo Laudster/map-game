@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "Z",
+        "UN membership date": 1964,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "11.4%",
+        "Region": "Eastern Africa",
+        "Surface area": "752612.0 square miles",
+        "Currency": "ZMW",
+        "Gdp per capita": "1572$",
+        "Life expectancy": "60.3 years",
+        "Capital city population": "2467563"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Lusaka",
+        "Population": "18384000",
+        "Gdp": "27283000000$"
+    },
+    "answer": "Zambia"
+}

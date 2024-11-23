@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "7.2%",
+        "Region": "Western Asia",
+        "Surface area": "9251.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "28967$",
+        "Life expectancy": "78.6 years",
+        "Capital city population": "330000"
+    },
+    "end": {
+        "Official language": "Greek, Turkish",
+        "Capital": "Nicosia",
+        "Population": "1207000",
+        "Gdp": "24963000000$"
+    },
+    "answer": "Cyprus"
+}

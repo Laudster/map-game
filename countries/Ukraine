@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "8.9%",
+        "Region": "Eastern Europe",
+        "Surface area": "603500.0 square miles",
+        "Currency": "UAH",
+        "Gdp per capita": "2956$",
+        "Life expectancy": "66.8 years",
+        "Capital city population": "2952301"
+    },
+    "end": {
+        "Official language": "Ukrainian",
+        "Capital": "Kyiv",
+        "Population": "43734000",
+        "Gdp": "130832000000$"
+    },
+    "answer": "Ukraine"
+}

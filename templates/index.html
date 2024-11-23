@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.maptiler.com/maptiler-sdk-js/v2.3.0/maptiler-sdk.umd.js"></script>
+    <link href="https://cdn.maptiler.com/maptiler-sdk-js/v2.3.0/maptiler-sdk.css" rel="stylesheet" />
+    <script src="https://cdn.maptiler.com/leaflet-maptilersdk/v2.0.0/leaflet-maptilersdk.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js" integrity="sha512-q/dWJ3kcmjBLU4Qc47E4A9kTB4m3wuTY7vkFJDTZKjTs8jhyGQnaUrxa0Ytd0ssMZhbNua9hE+E7Qv1j+DyZwA==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+    <script src="{{url_for("static", filename="script.js")}}"></script>
+    <link rel="stylesheet" href="{{url_for("static", filename="style.css")}}">
+
+    <title>Map</title>
+</head>
+<body>
+    <h1> Guess the Country </h1>
+    <div id="map"></div>
+
+    <div id="hearts"></div>
+    <div id="container"> <h2 id="country"></h2> </div>
+    <button id="guess" onclick="guess()"> Guess </button>
+
+    <dialog id="end">
+        <h2> Correct </h2>
+        <h3> The country was </h3>
+        <button onclick="document.getElementById('end').close();" style="margin-left: 40%;"> Ok </button>
+    </dialog>
+
+    
+    <br><br>
+    <h2> Hints: </h2>
+
+    <ol>
+        <li style="margin-right: 20px;">
+            <ul id="start hints">
+            </ul>
+        </li>
+        <h1 id="hidden1" style="display: none;"> ? </h1>
+        <li >
+            <ul id="middle hints">
+            </ul>
+        </li>
+        <h1 id="hidden2" style="display: none;"> ? </h1>
+        <li>
+            <ul id="end hints">
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>

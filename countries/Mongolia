@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1961,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.0%",
+        "Region": "Eastern Asia",
+        "Surface area": "1564116.0 square miles",
+        "Currency": "MNT",
+        "Gdp per capita": "4103$",
+        "Life expectancy": "65.5 years",
+        "Capital city population": "1396288"
+    },
+    "end": {
+        "Official language": "Mongolian",
+        "Capital": "Ulaanbaatar",
+        "Population": "3278000",
+        "Gdp": "13010000000$"
+    },
+    "answer": "Mongolia"
+}

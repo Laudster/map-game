@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1974,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "None%",
+        "Region": "Caribbean",
+        "Surface area": "345.0 square miles",
+        "Currency": "XCD",
+        "Gdp per capita": "10485$",
+        "Life expectancy": "70.1 years",
+        "Capital city population": "12486"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Saint George's",
+        "Population": "112000",
+        "Gdp": "1169000000$"
+    },
+    "answer": "Grenada"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "2.1%",
+        "Region": "Eastern Africa",
+        "Surface area": "1104300.0 square miles",
+        "Currency": "ETB",
+        "Gdp per capita": "735$",
+        "Life expectancy": "64.1 years",
+        "Capital city population": "3041002"
+    },
+    "end": {
+        "Official language": "Amharic",
+        "Capital": "Addis Ababa",
+        "Population": "114964000",
+        "Gdp": "80292000000$"
+    },
+    "answer": "Ethiopia"
+}

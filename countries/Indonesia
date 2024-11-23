@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1950,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.8%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "1910931.0 square miles",
+        "Currency": "IDR",
+        "Gdp per capita": "3893$",
+        "Life expectancy": "69.3 years",
+        "Capital city population": "33756000"
+    },
+    "end": {
+        "Official language": "Indonesian",
+        "Capital": "Jakarta",
+        "Population": "273524000",
+        "Gdp": "1042173000000$"
+    },
+    "answer": "Indonesia"
+}

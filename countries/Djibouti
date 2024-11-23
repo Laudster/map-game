@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "D",
+        "UN membership date": 1977,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "10.3%",
+        "Region": "Eastern Africa",
+        "Surface area": "23200.0 square miles",
+        "Currency": "DJF",
+        "Gdp per capita": "3048$",
+        "Life expectancy": "64.6 years",
+        "Capital city population": "603900"
+    },
+    "end": {
+        "Official language": "Arabic, French",
+        "Capital": "Djibouti",
+        "Population": "988000",
+        "Gdp": "2923000000$"
+    },
+    "answer": "Djibouti"
+}

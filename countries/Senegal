@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.7%",
+        "Region": "Western Africa",
+        "Surface area": "196712.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "1501$",
+        "Life expectancy": "65.3 years",
+        "Capital city population": "1438725"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Dakar",
+        "Population": "16744000",
+        "Gdp": "23809000000$"
+    },
+    "answer": "Senegal"
+}

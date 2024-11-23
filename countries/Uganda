@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1962,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "1.9%",
+        "Region": "Eastern Africa",
+        "Surface area": "241550.0 square miles",
+        "Currency": "UGX",
+        "Gdp per capita": "704$",
+        "Life expectancy": "60.4 years",
+        "Capital city population": "1680600"
+    },
+    "end": {
+        "Official language": "English, Swahili",
+        "Capital": "Kampala",
+        "Population": "45741000",
+        "Gdp": "30098000000$"
+    },
+    "answer": "Uganda"
+}

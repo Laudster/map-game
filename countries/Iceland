@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1946,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.2%",
+        "Region": "Northern Europe",
+        "Surface area": "103000.0 square miles",
+        "Currency": "ISK",
+        "Gdp per capita": "76867$",
+        "Life expectancy": "81.2 years",
+        "Capital city population": "139875"
+    },
+    "end": {
+        "Official language": "Icelandic",
+        "Capital": "Reykjavik",
+        "Population": "341000",
+        "Gdp": "25882000000$"
+    },
+    "answer": "Iceland"
+}

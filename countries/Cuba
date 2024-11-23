@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "1.6%",
+        "Region": "Caribbean",
+        "Surface area": "109884.0 square miles",
+        "Currency": "CUP",
+        "Gdp per capita": "8821$",
+        "Life expectancy": "76.7 years",
+        "Capital city population": "2089532"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Havana",
+        "Population": "11327000",
+        "Gdp": "100023000000$"
+    },
+    "answer": "Cuba"
+}

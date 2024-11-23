@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.2%",
+        "Region": "South America",
+        "Surface area": "257217.0 square miles",
+        "Currency": "USD",
+        "Gdp per capita": "6344$",
+        "Life expectancy": "74.0 years",
+        "Capital city population": "2650288"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Quito",
+        "Population": "17643000",
+        "Gdp": "108398000000$"
+    },
+    "answer": "Ecuador"
+}

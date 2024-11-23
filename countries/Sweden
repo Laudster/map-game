@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1946,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.7%",
+        "Region": "Northern Europe",
+        "Surface area": "438574.0 square miles",
+        "Currency": "SEK",
+        "Gdp per capita": "55766$",
+        "Life expectancy": "80.8 years",
+        "Capital city population": "2121000"
+    },
+    "end": {
+        "Official language": "Swedish",
+        "Capital": "Stockholm",
+        "Population": "10099000",
+        "Gdp": "556086000000$"
+    },
+    "answer": "Sweden"
+}

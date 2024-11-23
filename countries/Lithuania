@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1991,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.3%",
+        "Region": "Northern Europe",
+        "Surface area": "65286.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "19082$",
+        "Life expectancy": "70.0 years",
+        "Capital city population": "716856"
+    },
+    "end": {
+        "Official language": "Lithuanian",
+        "Capital": "Vilnius",
+        "Population": "2722000",
+        "Gdp": "53455000000$"
+    },
+    "answer": "Lithuania"
+}

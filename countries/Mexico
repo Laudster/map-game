@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "3.6%",
+        "Region": "Central America",
+        "Surface area": "1964375.0 square miles",
+        "Currency": "MXN",
+        "Gdp per capita": "9694$",
+        "Life expectancy": "72.1 years",
+        "Capital city population": "21804000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Mexico City",
+        "Population": "128933000",
+        "Gdp": "1223401000000$"
+    },
+    "answer": "Mexico"
+}

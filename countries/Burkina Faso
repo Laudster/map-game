@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "6.4%",
+        "Region": "Western Africa",
+        "Surface area": "272967.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "820$",
+        "Life expectancy": "60.1 years",
+        "Capital city population": "2453496"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Ouagadougou",
+        "Population": "20903000",
+        "Gdp": "16200000000$"
+    },
+    "answer": "Burkina Faso"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "2.5%",
+        "Region": "Central America",
+        "Surface area": "108889.0 square miles",
+        "Currency": "GTQ",
+        "Gdp per capita": "4549$",
+        "Life expectancy": "71.0 years",
+        "Capital city population": "3014000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Guatemala City",
+        "Population": "17916000",
+        "Gdp": "78461000000$"
+    },
+    "answer": "Guatemala"
+}

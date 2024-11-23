@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 2011,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "12.3%",
+        "Region": "Eastern Africa",
+        "Surface area": "658841.0 square miles",
+        "Currency": "SSP",
+        "Gdp per capita": "747$",
+        "Life expectancy": "56.0 years",
+        "Capital city population": "459342"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Juba",
+        "Population": "11194000",
+        "Gdp": "8207000000$"
+    },
+    "answer": "South Sudan"
+}

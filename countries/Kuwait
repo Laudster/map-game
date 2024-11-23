@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "K",
+        "UN membership date": 1963,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "2.3%",
+        "Region": "Western Asia",
+        "Surface area": "17818.0 square miles",
+        "Currency": "KWD",
+        "Gdp per capita": "34248$",
+        "Life expectancy": "74.6 years",
+        "Capital city population": "3000000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Kuwait City",
+        "Population": "4271000",
+        "Gdp": "141698000000$"
+    },
+    "answer": "Kuwait"
+}

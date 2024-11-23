@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "9.7%",
+        "Region": "South America",
+        "Surface area": "1141748.0 square miles",
+        "Currency": "COP",
+        "Gdp per capita": "6649$",
+        "Life expectancy": "74.2 years",
+        "Capital city population": "7968095"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Bogota",
+        "Population": "50883000",
+        "Gdp": "330228000000$"
+    },
+    "answer": "Colombia"
+}

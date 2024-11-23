@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1973,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "11.3%",
+        "Region": "Caribbean",
+        "Surface area": "13940.0 square miles",
+        "Currency": "BSD",
+        "Gdp per capita": "32218$",
+        "Life expectancy": "71.5 years",
+        "Capital city population": "274400"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Nassau",
+        "Population": "393000",
+        "Gdp": "12424000000$"
+    },
+    "answer": "The Bahamas"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1956,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "9.0%",
+        "Region": "Northern Africa",
+        "Surface area": "446550.0 square miles",
+        "Currency": "MAD",
+        "Gdp per capita": "3272$",
+        "Life expectancy": "75.1 years",
+        "Capital city population": "3499000"
+    },
+    "end": {
+        "Official language": "Arabic, Berber",
+        "Capital": "Rabat",
+        "Population": "36911000",
+        "Gdp": "117921000000$"
+    },
+    "answer": "Morocco"
+}

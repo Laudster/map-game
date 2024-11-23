@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1993,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "None%",
+        "Region": "Southern Europe",
+        "Surface area": "468.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "42051$",
+        "Life expectancy": "None years",
+        "Capital city population": "22615"
+    },
+    "end": {
+        "Official language": "Catalan",
+        "Capital": "Andorra La Vella",
+        "Population": "77000",
+        "Gdp": "3238000000$"
+    },
+    "answer": "Andorra"
+}

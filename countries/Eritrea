@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1993,
+        "Number of official languages": "3",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "5.2%",
+        "Region": "Eastern Africa",
+        "Surface area": "117600.0 square miles",
+        "Currency": "ERN",
+        "Gdp per capita": "1985$",
+        "Life expectancy": "63.6 years",
+        "Capital city population": "963000"
+    },
+    "end": {
+        "Official language": "Tigrinya, Arabic, English",
+        "Capital": "Asmara",
+        "Population": "3546000",
+        "Gdp": "6855000000$"
+    },
+    "answer": "Eritrea"
+}

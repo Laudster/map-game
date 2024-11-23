@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "12.8%",
+        "Region": "Western Asia",
+        "Surface area": "435052.0 square miles",
+        "Currency": "IQD",
+        "Gdp per capita": "5523$",
+        "Life expectancy": "68.3 years",
+        "Capital city population": "6183000"
+    },
+    "end": {
+        "Official language": "Arabic, Kurdish",
+        "Capital": "Baghdad",
+        "Population": "40222000",
+        "Gdp": "212272000000$"
+    },
+    "answer": "Iraq"
+}

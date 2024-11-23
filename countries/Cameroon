@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "3.4%",
+        "Region": "Middle Africa",
+        "Surface area": "475650.0 square miles",
+        "Currency": "XAF",
+        "Gdp per capita": "1534$",
+        "Life expectancy": "57.5 years",
+        "Capital city population": "5768400"
+    },
+    "end": {
+        "Official language": "French, English",
+        "Capital": "Yaound\u00e3\u0088",
+        "Population": "26546000",
+        "Gdp": "38694000000$"
+    },
+    "answer": "Cameroon"
+}

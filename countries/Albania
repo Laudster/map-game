@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "12.8%",
+        "Region": "Southern Europe",
+        "Surface area": "28748.0 square miles",
+        "Currency": "ALL",
+        "Gdp per capita": "5223$",
+        "Life expectancy": "76.7 years",
+        "Capital city population": "418495"
+    },
+    "end": {
+        "Official language": "Albanian",
+        "Capital": "Tirana",
+        "Population": "2878000",
+        "Gdp": "15059000000$"
+    },
+    "answer": "Albania"
+}

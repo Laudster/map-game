@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1971,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "0.8%",
+        "Region": "Western Asia",
+        "Surface area": "771.0 square miles",
+        "Currency": "BHD",
+        "Gdp per capita": "24133$",
+        "Life expectancy": "76.2 years",
+        "Capital city population": "635000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Manama",
+        "Population": "1702000",
+        "Gdp": "37876000000$"
+    },
+    "answer": "Bahrain"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "9.8%",
+        "Region": "Southern Europe",
+        "Surface area": "302073.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "34388$",
+        "Life expectancy": "81.0 years",
+        "Capital city population": "2748109"
+    },
+    "end": {
+        "Official language": "Italian",
+        "Capital": "Rome",
+        "Population": "60462000",
+        "Gdp": "2084882000000$"
+    },
+    "answer": "Italy"
+}

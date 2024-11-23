@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1990,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "2.6%",
+        "Region": "Western Europe",
+        "Surface area": "160.0 square miles",
+        "Currency": "CHF",
+        "Gdp per capita": "179258$",
+        "Life expectancy": "None years",
+        "Capital city population": "5998"
+    },
+    "end": {
+        "Official language": "German",
+        "Capital": "Vaduz",
+        "Population": "39000",
+        "Gdp": "6796000000$"
+    },
+    "answer": "Liechtenstein"
+}

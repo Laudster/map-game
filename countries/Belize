@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1981,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.4%",
+        "Region": "Central America",
+        "Surface area": "22966.0 square miles",
+        "Currency": "BZD",
+        "Gdp per capita": "4884$",
+        "Life expectancy": "71.4 years",
+        "Capital city population": "57169"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Belmopan",
+        "Population": "398000",
+        "Gdp": "1871000000$"
+    },
+    "answer": "Belize"
+}

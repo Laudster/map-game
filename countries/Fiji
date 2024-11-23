@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "F",
+        "UN membership date": 1970,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.1%",
+        "Region": "Melanesia",
+        "Surface area": "18272.0 square miles",
+        "Currency": "FJD",
+        "Gdp per capita": "6267$",
+        "Life expectancy": "65.6 years",
+        "Capital city population": "185913"
+    },
+    "end": {
+        "Official language": "English, Fijian, Hindi",
+        "Capital": "Suva",
+        "Population": "896000",
+        "Gdp": "5537000000$"
+    },
+    "answer": "Fiji"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "6.1%",
+        "Region": "Central Asia",
+        "Surface area": "448969.0 square miles",
+        "Currency": "UZS",
+        "Gdp per capita": "1555$",
+        "Life expectancy": "69.4 years",
+        "Capital city population": "2956384"
+    },
+    "end": {
+        "Official language": "Uzbek",
+        "Capital": "Tashkent",
+        "Population": "33469000",
+        "Gdp": "50500000000$"
+    },
+    "answer": "Uzbekistan"
+}

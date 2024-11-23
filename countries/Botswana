@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1966,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "18.7%",
+        "Region": "Southern Africa",
+        "Surface area": "582000.0 square miles",
+        "Currency": "BWP",
+        "Gdp per capita": "8258$",
+        "Life expectancy": "66.0 years",
+        "Capital city population": "235884"
+    },
+    "end": {
+        "Official language": "English, Setswana",
+        "Capital": "Gaborone",
+        "Population": "2352000",
+        "Gdp": "18615000000$"
+    },
+    "answer": "Botswana"
+}

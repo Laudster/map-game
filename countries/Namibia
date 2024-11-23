@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1990,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "20.6%",
+        "Region": "Southern Africa",
+        "Surface area": "824116.0 square miles",
+        "Currency": "NAD",
+        "Gdp per capita": "5930$",
+        "Life expectancy": "60.0 years",
+        "Capital city population": "431000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Windhoek",
+        "Population": "2541000",
+        "Gdp": "14519000000$"
+    },
+    "answer": "Namibia"
+}

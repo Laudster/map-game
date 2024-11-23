@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "1.8%",
+        "Region": "Eastern Africa",
+        "Surface area": "587295.0 square miles",
+        "Currency": "MGA",
+        "Gdp per capita": "527$",
+        "Life expectancy": "64.9 years",
+        "Capital city population": "2300000"
+    },
+    "end": {
+        "Official language": "Malagasy, French",
+        "Capital": "Antananarivo",
+        "Population": "27691000",
+        "Gdp": "13851000000$"
+    },
+    "answer": "Madagascar"
+}

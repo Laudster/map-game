@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "O",
+        "UN membership date": 1971,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "2.6%",
+        "Region": "Western Asia",
+        "Surface area": "309500.0 square miles",
+        "Currency": "OMR",
+        "Gdp per capita": "19072$",
+        "Life expectancy": "75.8 years",
+        "Capital city population": "1720000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Muscat",
+        "Population": "5107000",
+        "Gdp": "92111000000$"
+    },
+    "answer": "Oman"
+}

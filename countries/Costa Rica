@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "12.7%",
+        "Region": "Central America",
+        "Surface area": "51100.0 square miles",
+        "Currency": "CRC",
+        "Gdp per capita": "12026$",
+        "Life expectancy": "77.4 years",
+        "Capital city population": "1543000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "San Jos\u00e3\u0088",
+        "Population": "5094000",
+        "Gdp": "60126000000$"
+    },
+    "answer": "Costa Rica"
+}

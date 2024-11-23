@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "12.0%",
+        "Region": "South America",
+        "Surface area": "8515767.0 square miles",
+        "Currency": "BRL",
+        "Gdp per capita": "8920$",
+        "Life expectancy": "71.9 years",
+        "Capital city population": "23086000"
+    },
+    "end": {
+        "Official language": "Portuguese",
+        "Capital": "Brasilia",
+        "Population": "212559000",
+        "Gdp": "1868613000000$"
+    },
+    "answer": "Brazil"
+}

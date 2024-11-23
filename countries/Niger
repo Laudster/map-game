@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "8.0%",
+        "Region": "Western Africa",
+        "Surface area": "923768.0 square miles",
+        "Currency": "NGN",
+        "Gdp per capita": "2153$",
+        "Life expectancy": "53.3 years",
+        "Capital city population": "1026848"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Abuja",
+        "Population": "206140000",
+        "Gdp": "421821000000$"
+    },
+    "answer": "Niger"
+}

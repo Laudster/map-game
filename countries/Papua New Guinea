@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1975,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "2.5%",
+        "Region": "Melanesia",
+        "Surface area": "462840.0 square miles",
+        "Currency": "PGK",
+        "Gdp per capita": "2681$",
+        "Life expectancy": "62.9 years",
+        "Capital city population": "700000"
+    },
+    "end": {
+        "Official language": "Tok Pisin, Hiri Motu, English",
+        "Capital": "Port Moresby",
+        "Population": "8947000",
+        "Gdp": "23077000000$"
+    },
+    "answer": "Papua New Guinea"
+}

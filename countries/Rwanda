@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "R",
+        "UN membership date": 1962,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "1.0%",
+        "Region": "Eastern Africa",
+        "Surface area": "26338.0 square miles",
+        "Currency": "RWF",
+        "Gdp per capita": "773$",
+        "Life expectancy": "66.3 years",
+        "Capital city population": "1518632"
+    },
+    "end": {
+        "Official language": "Kinyarwanda, French, English",
+        "Capital": "Kigali",
+        "Population": "12952000",
+        "Gdp": "9510000000$"
+    },
+    "answer": "Rwanda"
+}

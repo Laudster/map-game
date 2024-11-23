@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "7.1%",
+        "Region": "South America",
+        "Surface area": "756102.0 square miles",
+        "Currency": "CLP",
+        "Gdp per capita": "15923$",
+        "Life expectancy": "77.4 years",
+        "Capital city population": "7171000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Santiago",
+        "Population": "19116000",
+        "Gdp": "298231000000$"
+    },
+    "answer": "Chile"
+}

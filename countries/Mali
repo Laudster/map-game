@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "7.3%",
+        "Region": "Western Africa",
+        "Surface area": "1240192.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "900$",
+        "Life expectancy": "58.0 years",
+        "Capital city population": "4227569"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Bamako",
+        "Population": "20251000",
+        "Gdp": "17172000000$"
+    },
+    "answer": "Mali"
+}

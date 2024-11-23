@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1971,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "2.4%",
+        "Region": "Southern Asia",
+        "Surface area": "38394.0 square miles",
+        "Currency": "BTN",
+        "Gdp per capita": "3523$",
+        "Life expectancy": "71.0 years",
+        "Capital city population": "114551"
+    },
+    "end": {
+        "Official language": "Dzongkha",
+        "Capital": "Thimphu",
+        "Population": "772000",
+        "Gdp": "2658000000$"
+    },
+    "answer": "Bhutan"
+}

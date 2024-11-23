@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1958,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.3%",
+        "Region": "Western Africa",
+        "Surface area": "245857.0 square miles",
+        "Currency": "GNF",
+        "Gdp per capita": "937$",
+        "Life expectancy": "60.3 years",
+        "Capital city population": "1667864"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Conakry",
+        "Population": "13133000",
+        "Gdp": "11640000000$"
+    },
+    "answer": "Guinea"
+}

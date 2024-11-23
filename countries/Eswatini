@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1968,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "22.0%",
+        "Region": "Southern Africa",
+        "Surface area": "17363.0 square miles",
+        "Currency": "SZL",
+        "Gdp per capita": "4145$",
+        "Life expectancy": "55.2 years",
+        "Capital city population": "110508"
+    },
+    "end": {
+        "Official language": "English, siSwati",
+        "Capital": "Mbabane",
+        "Population": "1160000",
+        "Gdp": "4711000000$"
+    },
+    "answer": "Eswatini"
+}

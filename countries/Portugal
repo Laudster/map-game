@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.9%",
+        "Region": "Southern Europe",
+        "Surface area": "92226.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "23477$",
+        "Life expectancy": "78.7 years",
+        "Capital city population": "1278210"
+    },
+    "end": {
+        "Official language": "Portuguese",
+        "Capital": "Lisbon",
+        "Population": "10197000",
+        "Gdp": "240792000000$"
+    },
+    "answer": "Portugal"
+}

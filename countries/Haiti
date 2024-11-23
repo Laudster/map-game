@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "H",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "13.9%",
+        "Region": "Caribbean",
+        "Surface area": "27750.0 square miles",
+        "Currency": "HTG",
+        "Gdp per capita": "834$",
+        "Life expectancy": "61.4 years",
+        "Capital city population": "987310"
+    },
+    "end": {
+        "Official language": "Haitian Creole, French",
+        "Capital": "Port-Au-Prince",
+        "Population": "11402000",
+        "Gdp": "9287000000$"
+    },
+    "answer": "Haiti"
+}

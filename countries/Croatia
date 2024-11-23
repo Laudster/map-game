@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "7.1%",
+        "Region": "Southern Europe",
+        "Surface area": "56594.0 square miles",
+        "Currency": "HRK",
+        "Gdp per capita": "14674$",
+        "Life expectancy": "75.0 years",
+        "Capital city population": "767131"
+    },
+    "end": {
+        "Official language": "Croatian",
+        "Capital": "Zagreb",
+        "Population": "4105000",
+        "Gdp": "60991000000$"
+    },
+    "answer": "Croatia"
+}

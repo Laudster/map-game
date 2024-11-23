@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.3%",
+        "Region": "Oceania",
+        "Surface area": "7692060.0 square miles",
+        "Currency": "AUD",
+        "Gdp per capita": "58392$",
+        "Life expectancy": "81.2 years",
+        "Capital city population": "5031195"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Canberra",
+        "Population": "25500000",
+        "Gdp": "1453871000000$"
+    },
+    "answer": "Australia"
+}

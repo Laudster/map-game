@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "5.4%",
+        "Region": "Southern Asia",
+        "Surface area": "3287263.0 square miles",
+        "Currency": "INR",
+        "Gdp per capita": "2054$",
+        "Life expectancy": "68.1 years",
+        "Capital city population": "32226000"
+    },
+    "end": {
+        "Official language": "Hindi, English",
+        "Capital": "New Delhi",
+        "Population": "1380004000",
+        "Gdp": "2779352000000$"
+    },
+    "answer": "India"
+}

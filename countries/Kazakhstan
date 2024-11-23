@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "K",
+        "UN membership date": 1992,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.6%",
+        "Region": "Central Asia",
+        "Surface area": "2724902.0 square miles",
+        "Currency": "KZT",
+        "Gdp per capita": "9789$",
+        "Life expectancy": "68.8 years",
+        "Capital city population": "1916822"
+    },
+    "end": {
+        "Official language": "Kazakh, Russian",
+        "Capital": "Nur-Sultan",
+        "Population": "18777000",
+        "Gdp": "179340000000$"
+    },
+    "answer": "Kazakhstan"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "7.4%",
+        "Region": "Central America",
+        "Surface area": "130373.0 square miles",
+        "Currency": "NIO",
+        "Gdp per capita": "2028$",
+        "Life expectancy": "70.6 years",
+        "Capital city population": "1051236"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Managua",
+        "Population": "6625000",
+        "Gdp": "13118000000$"
+    },
+    "answer": "Nicaragua"
+}

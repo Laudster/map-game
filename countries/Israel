@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1949,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.8%",
+        "Region": "Western Asia",
+        "Surface area": "22072.0 square miles",
+        "Currency": "ILS",
+        "Gdp per capita": "44214$",
+        "Life expectancy": "81.0 years",
+        "Capital city population": "1388400"
+    },
+    "end": {
+        "Official language": "Hebrew, Arabic",
+        "Capital": "Jerusalem",
+        "Population": "8656000",
+        "Gdp": "370588000000$"
+    },
+    "answer": "Israel"
+}

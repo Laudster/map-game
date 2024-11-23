@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1945,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "3.4%",
+        "Region": "South America",
+        "Surface area": "1098581.0 square miles",
+        "Currency": "BOB",
+        "Gdp per capita": "3548$",
+        "Life expectancy": "68.3 years",
+        "Capital city population": "3151676"
+    },
+    "end": {
+        "Official language": "Spanish, Quechua, Aymara",
+        "Capital": "Sucre",
+        "Population": "11673000",
+        "Gdp": "40288000000$"
+    },
+    "answer": "Bolivia"
+}

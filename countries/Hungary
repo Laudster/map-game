@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "H",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "3.5%",
+        "Region": "Eastern Europe",
+        "Surface area": "93024.0 square miles",
+        "Currency": "HUF",
+        "Gdp per capita": "16264$",
+        "Life expectancy": "73.0 years",
+        "Capital city population": "2997958"
+    },
+    "end": {
+        "Official language": "Hungarian",
+        "Capital": "Budapest",
+        "Population": "9660000",
+        "Gdp": "157883000000$"
+    },
+    "answer": "Hungary"
+}

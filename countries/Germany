@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1973,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.0%",
+        "Region": "Western Europe",
+        "Surface area": "357376.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "47513$",
+        "Life expectancy": "78.7 years",
+        "Capital city population": "4890363"
+    },
+    "end": {
+        "Official language": "German",
+        "Capital": "Berlin",
+        "Population": "83784000",
+        "Gdp": "3949549000000$"
+    },
+    "answer": "Germany"
+}

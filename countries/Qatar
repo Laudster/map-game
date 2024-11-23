@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "Q",
+        "UN membership date": 1971,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "0.1%",
+        "Region": "Western Asia",
+        "Surface area": "11607.0 square miles",
+        "Currency": "QAR",
+        "Gdp per capita": "68793$",
+        "Life expectancy": "78.9 years",
+        "Capital city population": "1186023"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Doha",
+        "Population": "2881000",
+        "Gdp": "191362000000$"
+    },
+    "answer": "Qatar"
+}

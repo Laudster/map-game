@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1991,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.4%",
+        "Region": "Northern Europe",
+        "Surface area": "45227.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "23241$",
+        "Life expectancy": "74.0 years",
+        "Capital city population": "614561"
+    },
+    "end": {
+        "Official language": "Estonian",
+        "Capital": "Tallinn",
+        "Population": "1326000",
+        "Gdp": "30747000000$"
+    },
+    "answer": "Estonia"
+}

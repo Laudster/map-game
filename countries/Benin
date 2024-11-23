@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "2.0%",
+        "Region": "Western Africa",
+        "Surface area": "114763.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "906$",
+        "Life expectancy": "59.8 years",
+        "Capital city population": "679012"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Porto-Novo",
+        "Population": "12123000",
+        "Gdp": "10412000000$"
+    },
+    "answer": "Benin"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1976,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "6.8%",
+        "Region": "Middle Africa",
+        "Surface area": "1246700.0 square miles",
+        "Currency": "AOA",
+        "Gdp per capita": "3437$",
+        "Life expectancy": "57.8 years",
+        "Capital city population": "9051000"
+    },
+    "end": {
+        "Official language": "Portuguese",
+        "Capital": "Luanda",
+        "Population": "32866000",
+        "Gdp": "105902000000$"
+    },
+    "answer": "Angola"
+}

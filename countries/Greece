@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "15.5%",
+        "Region": "Southern Europe",
+        "Surface area": "131957.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "20731$",
+        "Life expectancy": "79.5 years",
+        "Capital city population": "3059764"
+    },
+    "end": {
+        "Official language": "Greek",
+        "Capital": "Athens",
+        "Population": "10423000",
+        "Gdp": "218139000000$"
+    },
+    "answer": "Greece"
+}

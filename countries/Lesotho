@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1966,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "22.8%",
+        "Region": "Southern Africa",
+        "Surface area": "30355.0 square miles",
+        "Currency": "LSL",
+        "Gdp per capita": "1248$",
+        "Life expectancy": "50.4 years",
+        "Capital city population": "343541"
+    },
+    "end": {
+        "Official language": "Sesotho, English",
+        "Capital": "Maseru",
+        "Population": "2142000",
+        "Gdp": "2631000000$"
+    },
+    "answer": "Lesotho"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "1.5%",
+        "Region": "Southern Asia",
+        "Surface area": "147181.0 square miles",
+        "Currency": "NPR",
+        "Gdp per capita": "990$",
+        "Life expectancy": "68.8 years",
+        "Capital city population": "845767"
+    },
+    "end": {
+        "Official language": "Nepali",
+        "Capital": "Kathmandu",
+        "Population": "29137000",
+        "Gdp": "27830000000$"
+    },
+    "answer": "Nepal"
+}

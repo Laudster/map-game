@@ -1,0 +1,91 @@
+body
+{
+    user-select: none;
+    font-family: monospace;
+    height: 100%;
+}
+
+@keyframes shake {
+    0% { transform: translate(0, 0); }
+    10% { transform: translate(-15px, -15px); }
+    20% { transform: translate(15px, 15px); }
+    30% { transform: translate(-15px, -15px); }
+    40% { transform: translate(15px, 15px); }
+    50% { transform: translate(-15px, -15px); }
+    60% { transform: translate(15px, 15px); }
+    70% { transform: translate(-15px, -15px); }
+    80% { transform: translate(15px, 15px); }
+    90% { transform: translate(-15px, -15px); }
+    100% { transform: translate(15px, 15px); }
+  }
+
+  /* Apply the animation to the body */
+  .shake {
+    animation: shake 1s ease-in-out 3;
+  }
+
+#map
+{
+    height: 37em;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#hearts
+{
+    position: absolute;
+    top: 3%;
+    left: 15%;
+    width: 80%;
+}
+
+#container
+{
+    position: absolute;
+    top: 10%;
+    width: 14%;
+    height: 20%;
+}
+
+#country
+{
+    font-size: 200%;
+}
+
+#end
+{
+    position: absolute;
+    top: 30%;
+    z-index: 1000;
+}
+
+#guess
+{
+    width: 10%;
+    font-size: larger;
+    margin-left: 45%;
+}
+#guess:hover {cursor: pointer;}
+
+ol
+{
+    display: flex;
+    list-style: none;
+    padding: 0%;
+    margin-left: 30%;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    text-align: center;
+}
+
+ul
+{
+    margin-right: 3%;
+}

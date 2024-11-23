@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1964,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.4%",
+        "Region": "Southern Europe",
+        "Surface area": "315.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "33122$",
+        "Life expectancy": "80.4 years",
+        "Capital city population": "480134"
+    },
+    "end": {
+        "Official language": "Maltese, English",
+        "Capital": "Valletta",
+        "Population": "442000",
+        "Gdp": "14549000000$"
+    },
+    "answer": "Malta"
+}

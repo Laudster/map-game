@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "Y",
+        "UN membership date": 1947,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "12.8%",
+        "Region": "Western Asia",
+        "Surface area": "527968.0 square miles",
+        "Currency": "YER",
+        "Gdp per capita": "935$",
+        "Life expectancy": "64.4 years",
+        "Capital city population": "2957000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Sana'a",
+        "Population": "29826000",
+        "Gdp": "26672000000$"
+    },
+    "answer": "Yemen"
+}

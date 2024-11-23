@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "11.0%",
+        "Region": "Central Asia",
+        "Surface area": "142600.0 square miles",
+        "Currency": "TJS",
+        "Gdp per capita": "826$",
+        "Life expectancy": "68.6 years",
+        "Capital city population": "863400"
+    },
+    "end": {
+        "Official language": "Tajik",
+        "Capital": "Dushanbe",
+        "Population": "9538000",
+        "Gdp": "7523000000$"
+    },
+    "answer": "Tajikistan"
+}

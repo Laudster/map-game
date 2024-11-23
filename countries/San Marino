@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.6%",
+        "Region": "Southern Europe",
+        "Surface area": "61.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "48472$",
+        "Life expectancy": "81.7 years",
+        "Capital city population": "10878"
+    },
+    "end": {
+        "Official language": "Italian",
+        "Capital": "San Marino",
+        "Population": "34000",
+        "Gdp": "1638000000$"
+    },
+    "answer": "San Marino"
+}

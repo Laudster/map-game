@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1976,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "8.4%",
+        "Region": "Polynesia",
+        "Surface area": "2842.0 square miles",
+        "Currency": "WST",
+        "Gdp per capita": "4249$",
+        "Life expectancy": "71.1 years",
+        "Capital city population": "37708"
+    },
+    "end": {
+        "Official language": "Samoan, English",
+        "Capital": "Apia",
+        "Population": "198000",
+        "Gdp": "833000000$"
+    },
+    "answer": "Samoa"
+}

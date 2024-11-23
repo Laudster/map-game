@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.8%",
+        "Region": "South America",
+        "Surface area": "406752.0 square miles",
+        "Currency": "PYG",
+        "Gdp per capita": "5794$",
+        "Life expectancy": "72.1 years",
+        "Capital city population": "477346"
+    },
+    "end": {
+        "Official language": "Spanish, Guaran\u00ed",
+        "Capital": "Asunci\u00e3\u009bN",
+        "Population": "7132000",
+        "Gdp": "40307000000$"
+    },
+    "answer": "Paraguay"
+}

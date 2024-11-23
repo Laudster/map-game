@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1975,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "3.2%",
+        "Region": "Eastern Africa",
+        "Surface area": "799380.0 square miles",
+        "Currency": "MZN",
+        "Gdp per capita": "498$",
+        "Life expectancy": "57.0 years",
+        "Capital city population": "1133200"
+    },
+    "end": {
+        "Official language": "Portuguese",
+        "Capital": "Maputo",
+        "Population": "31255000",
+        "Gdp": "14717000000$"
+    },
+    "answer": "Mozambique"
+}

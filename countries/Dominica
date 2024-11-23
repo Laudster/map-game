@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "D",
+        "UN membership date": 1978,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "None%",
+        "Region": "Caribbean",
+        "Surface area": "750.0 square miles",
+        "Currency": "XCD",
+        "Gdp per capita": "7691$",
+        "Life expectancy": "73.8 years",
+        "Capital city population": "14725"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Roseau",
+        "Population": "75000",
+        "Gdp": "551000000$"
+    },
+    "answer": "Dominica"
+}

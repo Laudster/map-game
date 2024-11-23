@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.8%",
+        "Region": "Central America",
+        "Surface area": "75320.0 square miles",
+        "Currency": "PAB",
+        "Gdp per capita": "15575$",
+        "Life expectancy": "75.1 years",
+        "Capital city population": "1500189"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Panama City",
+        "Population": "4315000",
+        "Gdp": "65055000000$"
+    },
+    "answer": "Panama"
+}

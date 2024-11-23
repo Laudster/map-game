@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.9%",
+        "Region": "Northern America",
+        "Surface area": "9833517.0 square miles",
+        "Currency": "USD",
+        "Gdp per capita": "62917$",
+        "Life expectancy": "76.3 years",
+        "Capital city population": "18908608"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Washington, D.C.",
+        "Population": "331003000",
+        "Gdp": "20580223000000$"
+    },
+    "answer": "United States"
+}

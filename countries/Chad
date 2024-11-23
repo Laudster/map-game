@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1960,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "1.9%",
+        "Region": "Middle Africa",
+        "Surface area": "1284000.0 square miles",
+        "Currency": "XAF",
+        "Gdp per capita": "735$",
+        "Life expectancy": "52.4 years",
+        "Capital city population": "1092066"
+    },
+    "end": {
+        "Official language": "French, Arabic",
+        "Capital": "N'djamena",
+        "Population": "16426000",
+        "Gdp": "11387000000$"
+    },
+    "answer": "Chad"
+}

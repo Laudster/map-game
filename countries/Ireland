@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1955,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.2%",
+        "Region": "Northern Europe",
+        "Surface area": "69797.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "79414$",
+        "Life expectancy": "80.4 years",
+        "Capital city population": "1263219"
+    },
+    "end": {
+        "Official language": "Irish, English",
+        "Capital": "Dublin",
+        "Population": "4938000",
+        "Gdp": "382674000000$"
+    },
+    "answer": "Ireland"
+}

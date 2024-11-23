@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.2%",
+        "Region": "Central America",
+        "Surface area": "21041.0 square miles",
+        "Currency": "USD",
+        "Gdp per capita": "4058$",
+        "Life expectancy": "68.1 years",
+        "Capital city population": "316090"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "San Salvador",
+        "Population": "6486000",
+        "Gdp": "26057000000$"
+    },
+    "answer": "El Salvador"
+}

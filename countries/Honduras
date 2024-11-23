@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "H",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "5.2%",
+        "Region": "Central America",
+        "Surface area": "112492.0 square miles",
+        "Currency": "HNL",
+        "Gdp per capita": "2500$",
+        "Life expectancy": "72.7 years",
+        "Capital city population": "1682725"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Tegucigalpa",
+        "Population": "9905000",
+        "Gdp": "23970000000$"
+    },
+    "answer": "Honduras"
+}

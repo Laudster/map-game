@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "C",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "5.4%",
+        "Region": "Northern America",
+        "Surface area": "9984670.0 square miles",
+        "Currency": "CAD",
+        "Gdp per capita": "46192$",
+        "Life expectancy": "80.2 years",
+        "Capital city population": "5647656"
+    },
+    "end": {
+        "Official language": "English, French",
+        "Capital": "Ottawa",
+        "Population": "37742000",
+        "Gdp": "1712562000000$"
+    },
+    "answer": "Canada"
+}

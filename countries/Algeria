@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1962,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "11.5%",
+        "Region": "Northern Africa",
+        "Surface area": "2381741.0 square miles",
+        "Currency": "DZD",
+        "Gdp per capita": "4114$",
+        "Life expectancy": "75.4 years",
+        "Capital city population": "3415811"
+    },
+    "end": {
+        "Official language": "Arabic, Berber",
+        "Capital": "Algiers",
+        "Population": "43851000",
+        "Gdp": "173757000000$"
+    },
+    "answer": "Algeria"
+}

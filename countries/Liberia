@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "2.7%",
+        "Region": "Western Africa",
+        "Surface area": "111369.0 square miles",
+        "Currency": "LRD",
+        "Gdp per capita": "440$",
+        "Life expectancy": "62.2 years",
+        "Capital city population": "1021762"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Monrovia",
+        "Population": "5058000",
+        "Gdp": "2122000000$"
+    },
+    "answer": "Liberia"
+}

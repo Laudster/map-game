@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "6.0%",
+        "Region": "Western Asia",
+        "Surface area": "86600.0 square miles",
+        "Currency": "AZN",
+        "Gdp per capita": "4717$",
+        "Life expectancy": "70.3 years",
+        "Capital city population": "2300500"
+    },
+    "end": {
+        "Official language": "Azerbaijani",
+        "Capital": "Baku",
+        "Population": "10139000",
+        "Gdp": "46939000000$"
+    },
+    "answer": "Azerbaijan"
+}

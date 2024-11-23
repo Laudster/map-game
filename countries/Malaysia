@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 1957,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "3.4%",
+        "Region": "South-Eastern Asia",
+        "Surface area": "330323.0 square miles",
+        "Currency": "MYR",
+        "Gdp per capita": "11373$",
+        "Life expectancy": "74.0 years",
+        "Capital city population": "8911000"
+    },
+    "end": {
+        "Official language": "Malay",
+        "Capital": "Kuala Lumpur",
+        "Population": "32366000",
+        "Gdp": "358579000000$"
+    },
+    "answer": "Malaysia"
+}

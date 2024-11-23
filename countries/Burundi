@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1962,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "1.4%",
+        "Region": "Eastern Africa",
+        "Surface area": "27830.0 square miles",
+        "Currency": "BIF",
+        "Gdp per capita": "294$",
+        "Life expectancy": "59.2 years",
+        "Capital city population": "1143202"
+    },
+    "end": {
+        "Official language": "Kirundi, French, English",
+        "Capital": "Gitega",
+        "Population": "11891000",
+        "Gdp": "3285000000$"
+    },
+    "answer": "Burundi"
+}

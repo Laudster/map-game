@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "E",
+        "UN membership date": 1968,
+        "Number of official languages": "3",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "6.5%",
+        "Region": "Middle Africa",
+        "Surface area": "28052.0 square miles",
+        "Currency": "XAF",
+        "Gdp per capita": "10179$",
+        "Life expectancy": "57.3 years",
+        "Capital city population": "297000"
+    },
+    "end": {
+        "Official language": "Spanish, French, Portuguese",
+        "Capital": "Malabo",
+        "Population": "1403000",
+        "Gdp": "13324000000$"
+    },
+    "answer": "Equatorial Guinea"
+}

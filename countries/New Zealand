@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1945,
+        "Number of official languages": "2",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.0%",
+        "Region": "Oceania",
+        "Surface area": "268107.0 square miles",
+        "Currency": "NZD",
+        "Gdp per capita": "43836$",
+        "Life expectancy": "80.3 years",
+        "Capital city population": "1346091"
+    },
+    "end": {
+        "Official language": "English, M\u0101ori",
+        "Capital": "Wellington",
+        "Population": "4822000",
+        "Gdp": "207921000000$"
+    },
+    "answer": "New Zealand"
+}

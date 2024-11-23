@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "F",
+        "UN membership date": 1955,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "6.7%",
+        "Region": "Northern Europe",
+        "Surface area": "338440.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "50135$",
+        "Life expectancy": "78.8 years",
+        "Capital city population": "1360075"
+    },
+    "end": {
+        "Official language": "Finnish, Swedish",
+        "Capital": "Helsinki",
+        "Population": "5541000",
+        "Gdp": "276878000000$"
+    },
+    "answer": "Finland"
+}

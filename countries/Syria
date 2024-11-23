@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": "1945",
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "8.4%",
+        "Region": "Western Asia",
+        "Surface area": "185180.0 square miles",
+        "Currency": "SYP",
+        "Gdp per capita": "981$",
+        "Life expectancy": "65.9 years",
+        "Capital city population": "2584771"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Damascus",
+        "Population": "17501000",
+        "Gdp": "16628000000$"
+    },
+    "answer": "Syria"
+}

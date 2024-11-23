@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "L",
+        "UN membership date": 1955,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "18.6%",
+        "Region": "Northern Africa",
+        "Surface area": "1676198.0 square miles",
+        "Currency": "LYD",
+        "Gdp per capita": "5147$",
+        "Life expectancy": "69.9 years",
+        "Capital city population": "1183000"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Tripoli",
+        "Population": "6871000",
+        "Gdp": "34377000000$"
+    },
+    "answer": "Libya"
+}

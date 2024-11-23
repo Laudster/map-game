@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1965,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "9.1%",
+        "Region": "Western Africa",
+        "Surface area": "11295.0 square miles",
+        "Currency": "GMD",
+        "Gdp per capita": "716$",
+        "Life expectancy": "60.2 years",
+        "Capital city population": "413397"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Banjul",
+        "Population": "2417000",
+        "Gdp": "1633000000$"
+    },
+    "answer": "Gambia"
+}

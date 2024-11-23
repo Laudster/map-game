@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1955,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.2%",
+        "Region": "Southern Asia",
+        "Surface area": "65610.0 square miles",
+        "Currency": "LKR",
+        "Gdp per capita": "4189$",
+        "Life expectancy": "73.3 years",
+        "Capital city population": "2323826"
+    },
+    "end": {
+        "Official language": "Sinhala, Tamil",
+        "Capital": "Colombo",
+        "Population": "21413000",
+        "Gdp": "88942000000$"
+    },
+    "answer": "Sri Lanka"
+}

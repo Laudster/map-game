@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "G",
+        "UN membership date": 1974,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "2.5%",
+        "Region": "Western Africa",
+        "Surface area": "36125.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "778$",
+        "Life expectancy": "55.8 years",
+        "Capital city population": "492004"
+    },
+    "end": {
+        "Official language": "Portuguese",
+        "Capital": "Bissau",
+        "Population": "1968000",
+        "Gdp": "1459000000$"
+    },
+    "answer": "Guinea-Bissau"
+}

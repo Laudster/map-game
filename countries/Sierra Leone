@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1961,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "4.4%",
+        "Region": "Western Africa",
+        "Surface area": "72300.0 square miles",
+        "Currency": "SLL",
+        "Gdp per capita": "536$",
+        "Life expectancy": "53.2 years",
+        "Capital city population": "951000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Freetown",
+        "Population": "7977000",
+        "Gdp": "4101000000$"
+    },
+    "answer": "Sierra Leone"
+}

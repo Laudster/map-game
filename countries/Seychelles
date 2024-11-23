@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1976,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.1%",
+        "Region": "Eastern Africa",
+        "Surface area": "457.0 square miles",
+        "Currency": "SCR",
+        "Gdp per capita": "16377$",
+        "Life expectancy": "69.8 years",
+        "Capital city population": "24701"
+    },
+    "end": {
+        "Official language": "English, French, Seychellois Creole",
+        "Capital": "Victoria",
+        "Population": "98000",
+        "Gdp": "1590000000$"
+    },
+    "answer": "Seychelles"
+}

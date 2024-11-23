@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "V",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "9.4%",
+        "Region": "South America",
+        "Surface area": "912050.0 square miles",
+        "Currency": "VEF",
+        "Gdp per capita": "7212$",
+        "Life expectancy": "68.4 years",
+        "Capital city population": "2245744"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Caracas",
+        "Population": "28436000",
+        "Gdp": "208338000000$"
+    },
+    "answer": "Venezuela"
+}

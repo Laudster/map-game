@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "D",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "4.8%",
+        "Region": "Northern Europe",
+        "Surface area": "42921.0 square miles",
+        "Currency": "DKK",
+        "Gdp per capita": "61833$",
+        "Life expectancy": "78.7 years",
+        "Capital city population": "1366301"
+    },
+    "end": {
+        "Official language": "Danish",
+        "Capital": "Copenhagen",
+        "Population": "5792000",
+        "Gdp": "355675000000$"
+    },
+    "answer": "Denmark"
+}

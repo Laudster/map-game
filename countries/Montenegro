@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": 2006,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "14.8%",
+        "Region": "Southern Europe",
+        "Surface area": "13812.0 square miles",
+        "Currency": "EUR",
+        "Gdp per capita": "8771$",
+        "Life expectancy": "74.2 years",
+        "Capital city population": "173024"
+    },
+    "end": {
+        "Official language": "Montengrin",
+        "Capital": "Podgorica",
+        "Population": "628000",
+        "Gdp": "5507000000$"
+    },
+    "answer": "Montenegro"
+}

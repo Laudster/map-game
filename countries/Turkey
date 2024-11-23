@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "12.9%",
+        "Region": "Western Asia",
+        "Surface area": "783562.0 square miles",
+        "Currency": "TRY",
+        "Gdp per capita": "9367$",
+        "Life expectancy": "74.3 years",
+        "Capital city population": "16079000"
+    },
+    "end": {
+        "Official language": "Turkish",
+        "Capital": "Ankara",
+        "Population": "84339000",
+        "Gdp": "771355000000$"
+    },
+    "answer": "Turkey"
+}

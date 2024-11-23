@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1956,
+        "Number of official languages": "2",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "16.6%",
+        "Region": "Northern Africa",
+        "Surface area": "None square miles",
+        "Currency": "SDG",
+        "Gdp per capita": "1208$",
+        "Life expectancy": "63.1 years",
+        "Capital city population": "7869000"
+    },
+    "end": {
+        "Official language": "Arabic, English",
+        "Capital": "Khartoum",
+        "Population": "43849000",
+        "Gdp": "50515000000$"
+    },
+    "answer": "Sudan"
+}

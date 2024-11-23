@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "N",
+        "UN membership date": 1993,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "16.4%",
+        "Region": "Southern Europe",
+        "Surface area": "25713.0 square miles",
+        "Currency": "MKD",
+        "Gdp per capita": "6062$",
+        "Life expectancy": "73.6 years",
+        "Capital city population": "526502"
+    },
+    "end": {
+        "Official language": "Macedonian",
+        "Capital": "Skopje",
+        "Population": "2083000",
+        "Gdp": "12629000000$"
+    },
+    "answer": "North Macedonia"
+}

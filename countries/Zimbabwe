@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "Z",
+        "UN membership date": 1980,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "5.0%",
+        "Region": "Eastern Africa",
+        "Surface area": "390757.0 square miles",
+        "Currency": "ZWL",
+        "Gdp per capita": "1683$",
+        "Life expectancy": "59.2 years",
+        "Capital city population": "2150000"
+    },
+    "end": {
+        "Official language": "English",
+        "Capital": "Harare",
+        "Population": "14863000",
+        "Gdp": "24312000000$"
+    },
+    "answer": "Zimbabwe"
+}

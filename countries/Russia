@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "R",
+        "UN membership date": "Never",
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "4.4%",
+        "Region": "Eastern Europe",
+        "Surface area": "17098246.0 square miles",
+        "Currency": "RUB",
+        "Gdp per capita": "11394$",
+        "Life expectancy": "66.8 years",
+        "Capital city population": "17332000"
+    },
+    "end": {
+        "Official language": "Russian",
+        "Capital": "Moscow",
+        "Population": "145934000",
+        "Gdp": "1660514000000$"
+    },
+    "answer": "Russia"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "T",
+        "UN membership date": 1960,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "2.0%",
+        "Region": "Western Africa",
+        "Surface area": "56785.0 square miles",
+        "Currency": "XOF",
+        "Gdp per capita": "654$",
+        "Life expectancy": "59.7 years",
+        "Capital city population": "113000"
+    },
+    "end": {
+        "Official language": "French",
+        "Capital": "Lom\u00e3\u0088",
+        "Population": "8279000",
+        "Gdp": "5165000000$"
+    },
+    "answer": "Togo"
+}

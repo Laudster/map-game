@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "I",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "11.2%",
+        "Region": "Southern Asia",
+        "Surface area": "1628750.0 square miles",
+        "Currency": "IRR",
+        "Gdp per capita": "5783$",
+        "Life expectancy": "75.3 years",
+        "Capital city population": "14148000"
+    },
+    "end": {
+        "Official language": "Persian",
+        "Capital": "Tehran",
+        "Population": "83993000",
+        "Gdp": "473091000000$"
+    },
+    "answer": "Iran"
+}

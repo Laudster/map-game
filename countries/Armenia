@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1992,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "16.6%",
+        "Region": "Western Asia",
+        "Surface area": "29743.0 square miles",
+        "Currency": "AMD",
+        "Gdp per capita": "4212$",
+        "Life expectancy": "71.1 years",
+        "Capital city population": "1075800"
+    },
+    "end": {
+        "Official language": "Armenian",
+        "Capital": "Yerevan",
+        "Population": "2963000",
+        "Gdp": "12433000000$"
+    },
+    "answer": "Armenia"
+}

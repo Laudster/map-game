@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "3.0%",
+        "Region": "Eastern Europe",
+        "Surface area": "312679.0 square miles",
+        "Currency": "PLN",
+        "Gdp per capita": "15444$",
+        "Life expectancy": "74.5 years",
+        "Capital city population": "1860281"
+    },
+    "end": {
+        "Official language": "Polish",
+        "Capital": "Warsaw",
+        "Population": "37847000",
+        "Gdp": "585661000000$"
+    },
+    "answer": "Poland"
+}

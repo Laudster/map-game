@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "P",
+        "UN membership date": 1945,
+        "Number of official languages": "3",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "3.2%",
+        "Region": "South America",
+        "Surface area": "1285216.0 square miles",
+        "Currency": "PEN",
+        "Gdp per capita": "6947$",
+        "Life expectancy": "73.7 years",
+        "Capital city population": "10320000"
+    },
+    "end": {
+        "Official language": "Spanish, Quechua, Aymara",
+        "Capital": "Lima",
+        "Population": "32972000",
+        "Gdp": "222237000000$"
+    },
+    "answer": "Peru"
+}

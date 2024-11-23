@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "B",
+        "UN membership date": 1974,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral autocracy",
+        "Unemployement rate": "4.2%",
+        "Region": "Southern Asia",
+        "Surface area": "147570.0 square miles",
+        "Currency": "BDT",
+        "Gdp per capita": "1670$",
+        "Life expectancy": "70.5 years",
+        "Capital city population": "18627000"
+    },
+    "end": {
+        "Official language": "Bengali",
+        "Capital": "Dhaka",
+        "Population": "164689000",
+        "Gdp": "269628000000$"
+    },
+    "answer": "Bangladesh"
+}

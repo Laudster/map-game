@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "M",
+        "UN membership date": "1992",
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Electoral democracy",
+        "Unemployement rate": "5.4%",
+        "Region": "Eastern Europe",
+        "Surface area": "33846.0 square miles",
+        "Currency": "MDL",
+        "Gdp per capita": "2791$",
+        "Life expectancy": "67.4 years",
+        "Capital city population": "702300"
+    },
+    "end": {
+        "Official language": "Romanian",
+        "Capital": "Chisinau",
+        "Population": "4034000",
+        "Gdp": "11309000000$"
+    },
+    "answer": "Moldova"
+}

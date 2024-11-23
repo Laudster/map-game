@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "U",
+        "UN membership date": 1971,
+        "Number of official languages": "1",
+        "Hemisphere": "Northern"
+    },
+    "middle": {
+        "Form of government": "Closed autocracy",
+        "Unemployement rate": "2.4%",
+        "Region": "Western Asia",
+        "Surface area": "83600.0 square miles",
+        "Currency": "AED",
+        "Gdp per capita": "43005$",
+        "Life expectancy": "77.1 years",
+        "Capital city population": "3331420"
+    },
+    "end": {
+        "Official language": "Arabic",
+        "Capital": "Abu Dhabi",
+        "Population": "9890000",
+        "Gdp": "414179000000$"
+    },
+    "answer": "United Arab Emirates"
+}

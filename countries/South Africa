@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "S",
+        "UN membership date": 1945,
+        "Number of official languages": "11",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "28.5%",
+        "Region": "Southern Africa",
+        "Surface area": "1221037.0 square miles",
+        "Currency": "ZAR",
+        "Gdp per capita": "6369$",
+        "Life expectancy": "60.2 years",
+        "Capital city population": "8500000"
+    },
+    "end": {
+        "Official language": "Zulu, Xhosa, Afrikaans, English, others",
+        "Capital": "Pretoria",
+        "Population": "59309000",
+        "Gdp": "368094000000$"
+    },
+    "answer": "South Africa"
+}

@@ -1,0 +1,25 @@
+{
+    "start": {
+        "Starting letter": "A",
+        "UN membership date": 1945,
+        "Number of official languages": "1",
+        "Hemisphere": "Southern"
+    },
+    "middle": {
+        "Form of government": "Liberal democracy",
+        "Unemployement rate": "10.4%",
+        "Region": "South America",
+        "Surface area": "2780400.0 square miles",
+        "Currency": "ARS",
+        "Gdp per capita": "11687$",
+        "Life expectancy": "73.0 years",
+        "Capital city population": "16710000"
+    },
+    "end": {
+        "Official language": "Spanish",
+        "Capital": "Buenos Aires",
+        "Population": "45196000",
+        "Gdp": "518475000000$"
+    },
+    "answer": "Argentina"
+}
