@@ -1,0 +1,6 @@
+flask
+flask_socketio
+itertools
+pandas
+requests
+dotenv
