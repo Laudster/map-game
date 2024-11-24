@@ -76,7 +76,7 @@ function new_country()
 guess = function()
 {
     socket.emit("check-answer", function(answer){
-        if (target == answer)
+        if (target.replace(" ", "") == answer.replace(" ", ""))
             {
                 document.getElementById("country").textContent = "";
                 document.getElementById("end").querySelector("h2").textContent = "Correct";
@@ -187,8 +187,12 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 
+    let mapheight = 20;
+
+    if (window.screen.width <= 600) mapheight = 40;
+
     const key = 'MWTbW34b3bWSBpRT3for';
-    const map = L.map('map', {doubleClickZoom: false, minZoom: 2, maxBounds: [[-90, -180], [90, 180]]}).setView([0, 0], 2);
+    const map = L.map('map', {doubleClickZoom: false, minZoom: 2, maxBounds: [[-100, -200], [100, 200]]}).setView([mapheight, 0], 2);
 
     L.maptilerLayer({
         apiKey: key,

@@ -45,4 +45,4 @@ def new_country():
         session["country"] = load(file)
 
 if __name__ == "__main__":
-    socket.run(app, debug=True)
+    socket.run(app, debug=False)
