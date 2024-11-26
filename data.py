@@ -3,6 +3,7 @@ from os import getenv
 from json import load, dump
 from dotenv import load_dotenv
 
+# Ble brukt til å lage data
 
 load_dotenv()
 
